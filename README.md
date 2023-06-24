@@ -1,7 +1,7 @@
 [![MasterHead](https://img.freepik.com/free-vector/development-typographic-header-presenting-content-web-pages-website-layout-composition-color-development-idea-computer-technology-flat-vector-illustration_613284-2493.jpg?w=1800&t=st=1687622116~exp=1687622716~hmac=80e5865f4d36e3e43ec0c3d410c5556d6c983241a0f1fc5307b357350ad6d28d)]
 <h1 align="center">Hi 👋, I'm TAJAMMUL LALKOT</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" widht="400" srchttps://www.lambdatest.com/resources/images/news24.gif" />
+<img align="right" alt="Coding" widht="400" srchttps://www.lambdatest.com/resources/images/news24.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tajammul121&label=Profile%20views&color=0e75b6&style=flat" alt="tajammul121" /> </p>
 
